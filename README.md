@@ -13,4 +13,4 @@ sudo apt-get install libsfml-dev
 ### on Windows just follow the steps in this [video](https://www.youtube.com/watch?v=fcZFaiGFIMA)
 
 if you use codeblocks you need to include the audio file by the following steps. just go to 
-project -> build options -> debug -> linker setting , then add the "smfle-audio" file
+project -> build options -> debug -> linker setting , then add the "sfml-audio" file
